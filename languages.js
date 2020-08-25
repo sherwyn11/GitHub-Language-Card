@@ -9,7 +9,7 @@
 
         async create() {
             var count = 0;
-            // getData('https://api.github.com/users/' + this.username + '/repos')
+            getData('https://api.github.com/users/' + this.username + '/repos')
             .then(async (repos) => {
                     for(const repo of repos) {
                         getData(repo.languages_url)
