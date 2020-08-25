@@ -10,7 +10,7 @@ Card for the languages you use on GitHub. Can be used for your websites.
 <script src="https://sherwyn11.github.io/Github-Language-Card/languages.js"></script>
 ```
 
-2. Add the <div> tag to your page
+2. Add the <b>div</b> tag to your page
 ```
 <div class="github-languages" username="<YOUR_GITHUB_USERNAME>" id="language-card"></div>
 ```
