@@ -1,6 +1,6 @@
-# GitHub-Language-Card
+# GitHub-Languages-Card
 
-Card for the languages you use on GitHub. Can be used for your websites.
+Creates a card for the languages you use on GitHub. Can be used for your websites.
 
 
 ## How to use
