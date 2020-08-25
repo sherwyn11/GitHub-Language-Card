@@ -1,6 +1,6 @@
 # GitHub-Language-Card
 
-Card for the languages you use on GitHub
+Card for the languages you use on GitHub. Can be used for your websites.
 
 
 ## How to use
@@ -18,7 +18,12 @@ Card for the languages you use on GitHub
 
 ## Output
 
+![](assets/img.png)
 
 ## License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+[MIT License Link](https://github.com/sherwyn11/GitHub-Language-Card/blob/master/LICENSE)
 
 copy; 2020 Sherwyn D'souza
