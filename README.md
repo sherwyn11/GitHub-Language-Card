@@ -26,4 +26,4 @@ Card for the languages you use on GitHub. Can be used for your websites.
 
 [MIT License Link](https://github.com/sherwyn11/GitHub-Language-Card/blob/master/LICENSE)
 
-copy; 2020 Sherwyn D'souza
+&copy; 2020 Sherwyn D'souza
