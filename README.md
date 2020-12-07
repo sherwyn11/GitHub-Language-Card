@@ -6,12 +6,12 @@ Creates a card for the languages you have used in your GitHub repositories. Can 
 ## How to use
 
 1. Include the script in your page
-```
-<script src="https://sherwyn11.github.io/Github-Language-Card/languages.js"></script>
+```html
+<script src="https://sherwyn11.github.io/GitHub-Languages-Card/languages.js"></script>
 ```
 
 2. Add the <b>div</b> tag to your page
-```
+```html
 <div class="github-languages" username="<YOUR_GITHUB_USERNAME>" id="language-card"></div>
 ```
 
